@@ -1,0 +1,24 @@
+{
+  "name": "command-line-readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awil414/Command-Line-README-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awil414/Command-Line-README-Generator/issues"
+  },
+  "homepage": "https://github.com/awil414/Command-Line-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.2"
+  }
+}
