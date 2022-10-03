@@ -2,23 +2,33 @@
 // If there is no license, return an empty string
 //const renderLicenseBadge;
 //const license = data.license;
-const fs = require('fs');
+//const fs = require('fs');
 
 function renderLicenseBadge(license) {
-  if (!license) {
-    return ``;
-  } 
-  if (license === 'MIT') {
-    return `![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`
-  }
-  if (license === 'APACHE 2.0') {
-    return `[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]`
-  }
-  if (license === 'BSD 3') {
-    return `[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)]`
-  }
-  if (license === 'Mozilla') {
-    return `[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)]`
+  // if (!license) {
+  //   return ``;
+  // } 
+  // if (license === 'MIT') {
+  //   return `![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`
+  // }
+  // if (license === 'APACHE 2.0') {
+  //   return `[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]`
+  // }
+  // if (license === 'BSD 3') {
+  //   return `[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)]`
+  // }
+  // if (license === 'Mozilla') {
+  //   return `[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)]`
+  // }
+
+
+
+  switch (license) {
+    case 'MIT': return `![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`
+    case 'APACHE 2.0': return `[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]`
+    case 'BSD 3': return `[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)]`
+    case 'Mozilla': return `[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)]`
+    default: return ``;
   }
 }
 
