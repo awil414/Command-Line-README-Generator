@@ -34,7 +34,7 @@ const questions = [
     {
         type: 'input',
         message: 'Please list your collaborators, if any.',
-        name: 'contributing'
+        name: 'credits'
     },
     {
         type: 'list',

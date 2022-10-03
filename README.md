@@ -7,7 +7,7 @@ This app generates a README
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Credits](#Credits)
+* [Contributing](#Credits)
 * [License](#License)
 
  "https://choosealicense.com/licenses/" 

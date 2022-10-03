@@ -102,8 +102,8 @@ ${data.usage}
 
 ${renderLicenseSection(data.license)}
 
-## Contributing
-${data.contributing}
+## Credits
+${data.credits}
 
 ## Tests
 
