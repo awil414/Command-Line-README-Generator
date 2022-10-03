@@ -42,5 +42,5 @@ Add commands to run tests here.
 
 ## Questions
 
-If you have any questions about the repo, constact me at awil414@gmail.com. 
+If you have any questions about the repo, contact me at awil414@gmail.com. 
 You can find more of my work at [awil414](https://github.com/awil414/).
