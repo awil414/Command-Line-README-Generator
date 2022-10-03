@@ -1,8 +1,8 @@
 # README Generator
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-This application produces a command-line README.md so the user can use their time more efficiently.
+This app generates a README
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -23,11 +23,11 @@ npm i
 
 
 ## Usage
-Upon entering node index.js the user will be propmt with questions to create your README.
+run node index.js then answer prompts
 
 ## License
       
-  This project is licensed under the APACHE 2.0 license.
+  This project is licensed under the MIT license.
 
 ## Contributing
 none
@@ -43,4 +43,4 @@ run test
 ## Questions
 
 If you have any questions about the repo, constact me at awil414@gmail.com. 
-You can find more of my work at [undefined](https://github.com/undefined/).
+You can find more of my work at [awil414](https://github.com/awil414/).
