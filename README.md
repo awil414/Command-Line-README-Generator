@@ -1,1 +1,2 @@
-# Command-Line-README-Generator
+# README generator
+
