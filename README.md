@@ -24,7 +24,7 @@ To initialize this project, copy the repo SSH key, clone it into your repo, and 
 
 ## Usage
 Once software is downloaded and Node packages are initialized, run node index.js in your command line. A series of prompts will appear. From here, simply input the necessary information for you project. Upon completion, a new README file will generate. See demo here:
-https://drive.google.com/file/d/1xtrcaDcsxs26Fg97O_Akhv-TB29OJdl2/view
+https://watch.screencastify.com/v/N6ZTDjP8E6PJss7xDhiD
 
 ## License
       
