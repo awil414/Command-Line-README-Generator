@@ -18,7 +18,7 @@ const questions = [
     {
         type: 'checkbox',
         message: 'What table of contents items do you want to add?',
-        choices: ['Installation', 'Usage', 'Credits', 'License', 'None'],
+        choices: ['Installation', 'Usage', 'Contributing', 'License', 'None'],
         name: 'contents'
     },
     {

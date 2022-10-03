@@ -9,7 +9,7 @@ function renderLicenseBadge(license) {
     return ``;
   } 
   if (license === 'MIT') {
-    return `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]`
+    return `![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`
   }
   if (license === 'APACHE 2.0') {
     return `[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]`
@@ -116,7 +116,7 @@ ${data.test}
 ## Questions
 
 If you have any questions about the repo, constact me at ${data.email}. 
-You can find more of my work at [${data.github}](https://github.com/${data.github}/).`;
+You can find more of my work at [${data.username}](https://github.com/${data.username}/).`;
 }
 
 module.exports = generateMarkdown;
