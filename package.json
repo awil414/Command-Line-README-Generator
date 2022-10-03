@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/awil414/Command-Line-README-Generator.git"
   },
   "keywords": [],
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/awil414/Command-Line-README-Generator#readme",
   "dependencies": {
-    "inquirer": "^9.1.2"
+    "inquirer": "^8.2.4"
   }
 }
