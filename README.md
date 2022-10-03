@@ -1,13 +1,13 @@
-# README Generator
+# REEADME Generator
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-This app generates a README
+This app generates readmes
 
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Contributing](#Credits)
+* [Credits](#Credits)
 * [License](#License)
 
  "https://choosealicense.com/licenses/" 
@@ -23,13 +23,13 @@ npm i
 
 
 ## Usage
-run node index.js then answer prompts
+run node index.js and answer prompts
 
 ## License
       
   This project is licensed under the MIT license.
 
-## Contributing
+## Credits
 none
 
 ## Tests
@@ -43,4 +43,4 @@ run test
 ## Questions
 
 If you have any questions about the repo, constact me at awil414@gmail.com. 
-You can find more of my work at [awil414](https://github.com/awil414/).
+You can find more of my work at [awil414@gmail.com](https://github.com/awil414@gmail.com/).
